@@ -1,0 +1,30 @@
+body {
+    background-color: brown;
+    background-image: url("./ComfyUI_00435_.png");
+}
+
+h1 {
+    color: white;
+    text-align: right;
+    font-family: 'Arial', sans-serif;
+    font-size: 2.5em;
+    margin-top: 20px;
+}
+
+h2 {
+    text-align: right;
+}
+
+a {
+    color: rgb(255, 212, 233);
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    text-align: right;
+    color: white;
+    text-transform: lowercase;
+    font-family: 'Courier New', Courier, monospace;
+}
